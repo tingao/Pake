@@ -1,12 +1,12 @@
 {
   "windows": [
     {
-      "url": "https://weekly.tw93.fun/en",
+      "url": "https://inara.cz",
       "url_type": "web",
-      "hide_title_bar": true,
+      "hide_title_bar": false,
       "fullscreen": false,
-      "width": 1200,
-      "height": 780,
+      "width": 1280,
+      "height": 800,
       "resizable": true,
       "always_on_top": false,
       "dark_mode": false,
@@ -34,7 +34,7 @@
     "linux": true,
     "windows": true
   },
-  "system_tray_path": "icons/icon.png",
+  "system_tray_path": "png/inara_512.png",
   "inject": [],
   "proxy_url": "",
   "multi_instance": false,
